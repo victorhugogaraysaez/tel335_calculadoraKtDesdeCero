@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculadora KT desde cero</string>
+    <string name="cifra_02">cifra_02</string>
+    <string name="resultado">resultado</string>
+    <string name="division">division</string>
+    <string name="multiplicacion">multiplicacion</string>
+    <string name="suma">suma</string>
+    <string name="resta">resta</string>
+    <string name="cifra_01">cifra_01</string>
+</resources>
