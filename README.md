@@ -1,7 +1,11 @@
 # calculadoraKtDesdeCero
-en MainActivity.kt !!.text refiere a que es un editable de las activities en .XML
+en MainActivity.kt 
 
-# el archivo del proyecto se graddle se modifica con:
+!!.text 
+
+refiere a que es un editable de las activities en .XML
+
+# el archivo del proyecto de graddle se modifica con:
 
 bajar la version del min SDK a 24.
 
