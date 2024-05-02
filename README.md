@@ -1,4 +1,7 @@
 # calculadoraKtDesdeCero
+
+visto el 02/05/2024
+
 en MainActivity.kt 
 
 !!.text 
